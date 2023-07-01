@@ -1,0 +1,15 @@
+﻿<Window x:Class="zad4.ItemWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Item" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="itemDataGrid" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="Year" Binding="{Binding Year}" />
+                <DataGridTextColumn Header="Engine Capacity" Binding="{Binding EngineCapacity}" />
+                <DataGridTextColumn Header="Drive Type" Binding="{Binding DriveType}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

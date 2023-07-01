@@ -1,0 +1,70 @@
+<Data>
+  <Category>
+    <Name>Kategorie pojazdów</Name>
+    <Description>Kategorie pojazdów różnego rodzaju.</Description>
+    <Subcategory>
+      <Name>Samochody osobowe</Name>
+      <Description>Samochody osobowe różnych marek.</Description>
+      <Item>
+        <Name>Toyota Camry</Name>
+        <Year>2022</Year>
+        <EngineCapacity>2.5</EngineCapacity>
+        <DriveType>Przedni</DriveType>
+      </Item>
+      <Item>
+        <Name>BMW 3 Series</Name>
+        <Year>2023</Year>
+        <EngineCapacity>2.0</EngineCapacity>
+        <DriveType>Tylno-przedni</DriveType>
+      </Item>
+    </Subcategory>
+    <Subcategory>
+      <Name>Samochody ciężarowe</Name>
+      <Description>Samochody ciężarowe różnych marek.</Description>
+      <Item>
+        <Name>Volvo FH16</Name>
+        <Year>2022</Year>
+        <EngineCapacity>16.1</EngineCapacity>
+        <DriveType>Tylno-przedni</DriveType>
+      </Item>
+      <Item>
+        <Name>MAN TGX</Name>
+        <Year>2023</Year>
+        <EngineCapacity>12.4</EngineCapacity>
+        <DriveType>Tylno-przedni</DriveType>
+      </Item>
+    </Subcategory>
+    <Subcategory>
+      <Name>Motory</Name>
+      <Description>Motory różnych marek.</Description>
+      <Item>
+        <Name>Harley-Davidson Street Glide</Name>
+        <Year>2022</Year>
+        <EngineCapacity>1868</EngineCapacity>
+        <DriveType>Tylno-przedni</DriveType>
+      </Item>
+      <Item>
+        <Name>Yamaha YZF-R6</Name>
+        <Year>2023</Year>
+        <EngineCapacity>599</EngineCapacity>
+        <DriveType>Tylno-przedni</DriveType>
+      </Item>
+    </Subcategory>
+    <Subcategory>
+      <Name>Samoloty</Name>
+      <Description>Samoloty różnych marek.</Description>
+      <Item>
+        <Name>Boeing 737</Name>
+        <Year>2022</Year>
+        <EngineCapacity>27,300</EngineCapacity>
+        <DriveType>Odrzutowy</DriveType>
+      </Item>
+      <Item>
+        <Name>Airbus A320</Name>
+        <Year>2023</Year>
+        <EngineCapacity>27,000</EngineCapacity>
+        <DriveType>Odrzutowy</DriveType>
+      </Item>
+    </Subcategory>
+  </Category>
+</Data>
